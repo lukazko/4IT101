@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=nazev\ prenositelnost\ moznostPouzit
+comment0.target=Vec(java.lang.String,\ boolean,\ boolean)
+comment0.text=\r\n\ \ Konstruktor\ nastavujeme\ nazev\ v\u011Bci,\ zda\ je\ p\u0159enositeln\u00E1\ a\ zda\ pro\ n\u00ED\ jde\ pou\u017E\u00EDt\ p\u0159\u00EDkaz\ 'pou\u017Eij'\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNazev()
+comment1.text=\r\n\ Metoda\ pro\ z\u00EDsk\u00E1n\u00ED\ n\u00E1zvu\ v\u011Bci\r\n\ \r\n\ @return\ nazev\ v\u011Bci\r\n
+comment2.params=
+comment2.target=boolean\ jePrenositelna()
+comment2.text=\r\n\ Metoda,\ kter\u00E1\ vr\u00E1t\u00ED,\ zda\ je\ v\u011Bc\ p\u0159enositeln\u00E1\r\n\ \r\n\ @return\ p\u0159enositelnost\ ano/ne\r\n
+comment3.params=
+comment3.target=boolean\ jeProzkoumana()
+comment3.text=\r\n\ Metoda\ vracej\u00EDc\u00ED\ zda\ je\ v\u011Bc\ prozkoumana\ \r\n\ \r\n\ @return\ prozkoumanost\ ano/ne\r\n
+comment4.params=
+comment4.target=boolean\ getMoznostPouzit()
+comment4.text=\r\n\ Metoda\ vracej\u00EDc\u00ED\ zda\ je\ v\u011Bc\ mo\u017Eno\ pou\u017E\u00EDt\ jako\ parametr\ v\ p\u0159\u00EDkazu\ pou\u017Eij\r\n\ \r\n\ @return\ pou\u017Eitelnost\ ano/ne\r\n
+comment5.params=
+comment5.target=boolean\ jeAktivni()
+comment5.text=\r\n\ Metoda\ vracej\u00EDc\u00ED,\ zda\ je\ vec\ momentaln\u011B\ pou\u017E\u00EDv\u00E1na\ na\ z\u00E1klad\u011B\ p\u0159\u00EDkazu\ pou\u017Eij\r\n\ \r\n\ @return\ aktivnost\ ano/ne\r\n
+comment6.params=aktivni
+comment6.target=void\ setAktivni(boolean)
+comment6.text=\r\n\ Metoda\ nastavujic\u00ED\ pou\u017E\u00EDv\u00E1n\u00ED\ v\u011Bci,\ vyu\u017E\u00EDv\u00E1\ p\u0159\u00EDkaz\ pou\u017Eij\r\n\ \r\n\ @param\ aktivnost\ ano/ne\r\n
+numComments=7

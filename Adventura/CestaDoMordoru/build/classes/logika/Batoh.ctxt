@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Batoh()
+comment0.text=\r\n\ \ Konstruktor\ zakl\u00E1d\u00E1\ mapu,\ kterou\ tvo\u0159\u00ED\ seznam\ v\u011Bc\u00ED\ v\ batohu\r\n
+comment1.params=nazev
+comment1.target=Vec\ getVec(java.lang.String)
+comment1.text=\r\n\ Z\u00EDsk\u00E1n\u00ED\ odkazu\ na\ v\u011Bc\ za\ pou\u017Eit\u00ED\ n\u00E1zvu\ v\u011Bci\r\n\ \r\n\ @param\ n\u00E1zev\ v\u011Bci\r\n\ @return\ odkaz\ na\ v\u011Bc\r\n
+comment2.params=
+comment2.target=boolean\ neniPlny()
+comment2.text=\r\n\ Vrac\u00ED,\ zda\ je\ mo\u017En\u00E9\ na\ z\u00E1klad\u011B\ kapacity\ do\ batohu\ um\u00EDstit\ dal\u0161\u00ED\ v\u011Bc\r\n\ \r\n\ @return\ m\u00E1me\ je\u0161t\u011B\ m\u00EDsto\ ano/ne\r\n
+comment3.params=neco
+comment3.target=boolean\ vlozVec(Vec)
+comment3.text=\r\n\ Vrac\u00ED\ jestli\ v\u011Bc\ byla,\ nebo\ nebyla\ vlo\u017Eena\ do\ ba\u0165ohu\r\n\ \r\n\ @param\ v\u011Bc\r\n\ @return\ vlo\u017Eena\ ano/ne\r\n
+comment4.params=neco
+comment4.target=boolean\ zahodVec(java.lang.String)
+comment4.text=\r\n\ Vrac\u00ED\ jestli\ v\u011Bc\ byla,\ nebo\ nebyla\ odstran\u011Bna\ z\ batohu\r\n\ \r\n\ @param\ nazev\ v\u011Bci\r\n\ @return\ zahozena\ ano/ne\r\n
+comment5.params=
+comment5.target=java.lang.String\ obsahBatohu()
+comment5.text=\r\n\ Vypisuje\ v\u011Bci,\ kter\u00E9\ obsahuje\ batoh\r\n\ \r\n\ @return\ obsah\ batohu\r\n
+numComments=6
