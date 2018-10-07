@@ -1,11 +1,10 @@
 ***CESTA DO MORDORU***
-Jednoduchá textová hra, na motivy Pána prstenù,jejím úkolem je dostat Prsten do Mordoru,
-a tam ho hodit do Hory osudu.
+JednoduchÃ¡ textovÃ¡ hra, na motivy PÃ¡na prstenÅ¯, jejÃ­mÅ¾ Ãºkolem je dostat Prsten do Mordoru, a tam ho hodit do Hory osudu.
 
-Autor: Lukáš Kubík
+Autor: LukÃ¡Å¡ KubÃ­k
 Verze: 1.00
 
-Jedna z vítìznıch cest:
+Jedna z vÃ­tÄ›znÃ½ch cest:
 prozkoumat
 seber Prsten
 jdi Rozcesti
@@ -16,7 +15,7 @@ seber Neviditelny_plast
 jdi Reka
 jdi Amon_Hen
 jdi Emyn_Muil
-pouij Neviditelny_plast
-jdi Cerná_brana
+pouÅ¾ij Neviditelny_plast
+jdi CernÃ¡_brana
 jdi Hora_osudu
-zahoï Prsten
+zahoÄ Prsten
