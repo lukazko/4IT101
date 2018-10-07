@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=plan
+comment0.target=PrikazSpolecenstvo(HerniPlan)
+comment0.text=\r\n\ Konstruktor\r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ Vyp\u00ED\u0161e\ aktu\u00E1ln\u00ED\ \u010Dleny\ spole\u010Denstva\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+numComments=3
